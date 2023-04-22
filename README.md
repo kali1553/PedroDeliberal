@@ -1,4 +1,4 @@
-## Olá! Me chamo Pedro 
+## Olá! :)
 <div>
  <a href="https://github.com/kali1553">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kali1553&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
