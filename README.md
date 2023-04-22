@@ -9,7 +9,7 @@
   <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="rigth"  alt="GIF" src="https://discord.com/channels/@me/1036781234631757985/1099418998006882464">
+  <img align="rigth"  alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgoadmedia.com.br%2Fcriatividade%2Fgif-um-tributo-cultura-mash-up%2F&psig=AOvVaw3qOmq89HGaTZsGRnzSiVtR&ust=1682278486980000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDrs--dvv4CFQAAAAAdAAAAABAE">
 </div>
 
 ##
