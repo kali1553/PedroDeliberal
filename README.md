@@ -15,7 +15,7 @@
 ## <div>   <img align="right"  alt="GIF" height="120" width="140" src="https://cdn.discordapp.com/attachments/1036781234631757985/1099419949245677598/nyan-cat-1.gif"> </div>
 
 <div> 
-  <a href="https://www.linkedin.com/in/pedro-henrique-deliberal-de-araujo-709297200" target="_blank"><img height="40" width="120" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-deliberal-de-araujo-709297200" target="_blank"><img height="40" width="130" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 
