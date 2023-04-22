@@ -2,8 +2,8 @@
 <div>
  <a href="https://github.com/kali1553">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kali1553&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
- <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=kali1553=compact&theme=tokyonight"/>
- <div>
+ <img height="180em" src=https://github-readme-stats.vercel.app/api/top-langs/?username=kali1553&theme=tokyonight&layoutcompact"/>
+ <div>&layout
  
 </div>
 <div style="display: inline_block"><br>
