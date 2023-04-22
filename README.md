@@ -10,7 +10,7 @@
   <img align="center" alt="Pedro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="rigth"  alt="GIF" src="https://discord.com/channels/@me/1036781234631757985/1099419949539283075/nyan-cat-1.gif">
+  <img align="right"  alt="GIF" height="120" width="140" src="https://cdn.discordapp.com/attachments/1036781234631757985/1099419949245677598/nyan-cat-1.gif">
 </div>
 
 ##
