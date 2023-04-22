@@ -16,7 +16,7 @@
 ##
 
 <div> 
-  <a href="https://www.linkedin.com/in/pedro-henrique-deliberal-de-araujo-709297200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <height="160" width="180" a href="https://www.linkedin.com/in/pedro-henrique-deliberal-de-araujo-709297200" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 
